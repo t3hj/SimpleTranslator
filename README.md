@@ -50,9 +50,8 @@ A user-friendly command-line text translator that allows you to translate multip
 
 ## Example Output
 
-![image](https://github.com/user-attachments/assets/88d8619b-a3ab-48d8-bb5d-007d599b9229) | ![image](https://github.com/user-attachments/assets/b406e182-fa43-43a1-ae3f-3107ccc3a9cc)
-
-
+![image](https://github.com/user-attachments/assets/88d8619b-a3ab-48d8-bb5d-007d599b9229) 
+![image](https://github.com/user-attachments/assets/e59a8ec2-ed6a-48a3-b62a-f736f619e767)
 
 ## Future Improvements
 
